@@ -50,10 +50,10 @@
 >
 > | 程式碼 | 說明 |   
 > | :-----: | :-------- |
-> |[Crawling](./一杯下肚，賠一輩子，以杯數預測量刑。/code/Crawling.ipynb)|爬取司法院裁判書系統（駕駛動力交通工具而吐氣所含酒精濃度）、酒經濃度相關網站。|  
-> |[Data_Mining](./一杯下肚，賠一輩子，以杯數預測量刑。/code/Data_Mining.ipynb)|原始資料清洗整理，並將裁判日期分隔出月份、將裁判內文分隔出量刑刑期以及分離出酒測值。|  
-> [input_output](./一杯下肚，賠一輩子，以杯數預測量刑。/code/input_output.ipynb)|設立輸入通道，將飲酒量與估算酒測值、酒醉程度、肇事率及量刑刑度連結。|
-> |[Data_Visulaization](./一杯下肚，賠一輩子，以杯數預測量刑。/code/Data_Visulaization.ipynb)|繪製量刑刑期與酒測值的視覺圖，並賦予隱含的法律意義。|
+> |[Crawling](./一杯下肚，賠一輩子，以杯數預測量刑。/code/Crawling.ipynb)|爬取司法院裁判書系統（駕駛動力交通工具而吐氣所含酒精濃度）、酒經濃度相關網站|  
+> |[Data_Mining](./一杯下肚，賠一輩子，以杯數預測量刑。/code/Data_Mining.ipynb)|原始資料清洗整理，並將裁判日期分隔出月份、將裁判內文分隔出量刑刑期以及分離出酒測值|  
+> [input_output](./一杯下肚，賠一輩子，以杯數預測量刑。/code/input_output.ipynb)|設立輸入通道，將飲酒量與估算酒測值、酒醉程度、肇事率及量刑刑度連結|
+> |[Data_Visulaization](./一杯下肚，賠一輩子，以杯數預測量刑。/code/Data_Visulaization.ipynb)|繪製量刑刑期與酒測值的視覺圖，並賦予隱含的法律意義|
 > 
 > * Report
 > 
